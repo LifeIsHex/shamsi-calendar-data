@@ -1,9 +1,9 @@
 # Privacy Policy — Shamsi Calendar
 
-**App:** Shamsi Calendar (تقویم شمسی), Android package `com.hezatech.shamsicalendar`
-**Developer:** HezaTech
-**Contact:** info@hezatech.com
-**Effective date:** 17 November 2026
+- **App:** Shamsi Calendar (تقویم شمسی), Android package `com.hezatech.shamsicalendar`
+- **Developer:** Mahdi Hezaveh (HezaTech)
+- **Contact:** info@hezatech.com
+- **Effective date:** 17 November 2026
 
 [فارسی در پایین همین صفحه](#سیاست-حریم-خصوصی--تقویم-شمسی)
 
@@ -65,10 +65,10 @@ If this policy changes, the new version will be published at this same address w
 
 # سیاست حریم خصوصی — تقویم شمسی
 
-**برنامه:** تقویم شمسی (Shamsi Calendar)، شناسه‌ی اندروید `com.hezatech.shamsicalendar`
-**سازنده:** هزاتک (HezaTech)
-**تماس:** info@hezatech.com
-**تاریخ اجرا:** ۲۶ آبان ۱۴۰۵ (۱۷ نوامبر ۲۰۲۶)
+- **برنامه:** تقویم شمسی (Shamsi Calendar)، شناسه‌ی اندروید `com.hezatech.shamsicalendar`
+- **سازنده:** مهدی هزاوه (HezaTech)
+- **تماس:** info@hezatech.com
+- **تاریخ اجرا:** ۲۶ آبان ۱۴۰۵ (۱۷ نوامبر ۲۰۲۶)
 
 تقویم شمسی هیچ اطلاعات شخصی‌ای جمع نمی‌کند. این برنامه حساب کاربری، تبلیغات، ابزار آمارگیری یا ردیابی ندارد و هیچ داده‌ای را به کسی نمی‌فروشد یا نمی‌دهد. در این صفحه هر کاری که برنامه با داده‌ها انجام می‌دهد توضیح داده شده، تا خودتان بتوانید بررسی کنید.
 
