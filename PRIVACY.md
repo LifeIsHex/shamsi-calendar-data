@@ -3,7 +3,7 @@
 **App:** Shamsi Calendar (تقویم شمسی), Android package `com.hezatech.shamsicalendar`
 **Developer:** HezaTech
 **Contact:** info@hezatech.com
-**Effective date:** 15 November 2026
+**Effective date:** 17 November 2026
 
 [فارسی در پایین همین صفحه](#سیاست-حریم-خصوصی--تقویم-شمسی)
 
@@ -11,10 +11,14 @@ Shamsi Calendar doesn't collect personal information. It has no accounts, no ads
 
 ## What stays on your phone
 
-- **Settings and your own events** (birthdays, countdowns, tasks) are saved only on your phone.
+- **Settings and your own events** (birthdays, countdowns, tasks) are saved on your phone. The app doesn't send them anywhere.
 - **Reminders and the date notification** are scheduled on the phone itself; nothing is sent to a server.
-- **Background photo:** if you choose a photo for the calendar screen, it's copied into the app's own storage on your phone. It isn't uploaded anywhere.
+- **Background photo:** if you choose a photo for the calendar screen, it's copied into the app's own storage on your phone. The app doesn't upload it anywhere.
 - **Qibla direction and sunrise and sunset times** are worked out on the phone.
+
+## Your phone's own backup
+
+If backup is turned on in your phone's settings (iCloud Backup on iPhone, Google's backup on Android), the phone can include what this app has saved (your settings, your events and the background photo) in that backup, as it does for other apps. That's what brings them back when you move to a new phone. The backup is made by the phone, not by the app. It goes to your own Apple or Google account under their privacy policies, and we never receive it. You can turn it off, or delete it, in the phone's backup settings.
 
 ## The phone's calendar
 
@@ -47,7 +51,7 @@ The app is a general calendar and isn't directed at children. It doesn't knowing
 
 ## Keeping and deleting data
 
-We don't keep any of your data on servers, so there's nothing for us to delete there. Everything the app saves is on your phone: "Reset settings to defaults" in Settings puts the settings back as they were at first, and uninstalling the app removes everything it saved. Events added to the phone's calendar belong to that calendar and stay there until you delete them.
+We don't keep any of your data on servers, so there's nothing for us to delete there. Everything the app saves is on your phone: "Reset settings to defaults" in Settings puts the settings back as they were at first, and uninstalling the app removes everything it saved there. A copy in your phone's own backup, if you use one, is kept and deleted in your Apple or Google account, not by us. Events added to the phone's calendar belong to that calendar and stay there until you delete them.
 
 ## Security
 
@@ -64,16 +68,20 @@ If this policy changes, the new version will be published at this same address w
 **برنامه:** تقویم شمسی (Shamsi Calendar)، شناسه‌ی اندروید `com.hezatech.shamsicalendar`
 **سازنده:** هزاتک (HezaTech)
 **تماس:** info@hezatech.com
-**تاریخ اجرا:** ۲۴ آبان ۱۴۰۵ (۱۵ نوامبر ۲۰۲۶)
+**تاریخ اجرا:** ۲۶ آبان ۱۴۰۵ (۱۷ نوامبر ۲۰۲۶)
 
 تقویم شمسی هیچ اطلاعات شخصی‌ای جمع نمی‌کند. این برنامه حساب کاربری، تبلیغات، ابزار آمارگیری یا ردیابی ندارد و هیچ داده‌ای را به کسی نمی‌فروشد یا نمی‌دهد. در این صفحه هر کاری که برنامه با داده‌ها انجام می‌دهد توضیح داده شده، تا خودتان بتوانید بررسی کنید.
 
-## چیزهایی که فقط روی گوشی شما می‌ماند
+## چیزهایی که روی گوشی شما می‌ماند
 
-- **تنظیمات و رویدادهای خودتان** (تولدها، روزشمارها و کارها) فقط روی گوشی شما ذخیره می‌شوند.
+- **تنظیمات و رویدادهای خودتان** (تولدها، روزشمارها و کارها) روی گوشی شما ذخیره می‌شوند و برنامه آن‌ها را جایی نمی‌فرستد.
 - **یادآوری‌ها و اعلان تاریخ** روی خود گوشی زمان‌بندی می‌شوند و چیزی به سرور فرستاده نمی‌شود.
-- **عکس پس‌زمینه:** اگر عکسی برای صفحه‌ی تقویم انتخاب کنید، در حافظه‌ی خود برنامه روی گوشی کپی می‌شود و جایی آپلود نمی‌شود.
+- **عکس پس‌زمینه:** اگر عکسی برای صفحه‌ی تقویم انتخاب کنید، در حافظه‌ی خود برنامه روی گوشی کپی می‌شود و برنامه آن را جایی آپلود نمی‌کند.
 - **جهت قبله و ساعت طلوع و غروب** روی خود گوشی حساب می‌شوند.
+
+## پشتیبان‌گیری خود گوشی
+
+اگر پشتیبان‌گیری در تنظیمات گوشی روشن باشد (iCloud Backup در آیفون یا پشتیبان‌گیری گوگل در اندروید)، گوشی می‌تواند آنچه این برنامه ذخیره کرده (تنظیمات، رویدادها و عکس پس‌زمینه) را هم مثل داده‌ی برنامه‌های دیگر در آن پشتیبان بگذارد. با همین پشتیبان است که این‌ها هنگام عوض کردن گوشی برمی‌گردند. پشتیبان را خود گوشی می‌گیرد، نه برنامه. این پشتیبان به حساب اپل یا گوگل خودتان می‌رود، تابع سیاست حریم خصوصی همان‌هاست و هرگز به دست ما نمی‌رسد. از تنظیمات پشتیبان‌گیری گوشی می‌توانید آن را خاموش یا پاک کنید.
 
 ## تقویم گوشی
 
@@ -106,7 +114,7 @@ If this policy changes, the new version will be published at this same address w
 
 ## نگهداری و پاک کردن داده‌ها
 
-ما هیچ داده‌ای از شما روی سرور نگه نمی‌داریم، پس چیزی برای پاک کردن آنجا وجود ندارد. هر چه برنامه ذخیره می‌کند روی گوشی شماست: بازنشانی تنظیمات، آن‌ها را به حالت اول برمی‌گرداند و با حذف برنامه همه‌ی چیزهایی که ذخیره کرده پاک می‌شود. رویدادهایی که به تقویم گوشی اضافه شده‌اند مال همان تقویم‌اند و تا خودتان پاکشان نکنید آنجا می‌مانند.
+ما هیچ داده‌ای از شما روی سرور نگه نمی‌داریم، پس چیزی برای پاک کردن آنجا وجود ندارد. هر چه برنامه ذخیره می‌کند روی گوشی شماست: بازنشانی تنظیمات، آن‌ها را به حالت اول برمی‌گرداند و با حذف برنامه همه‌ی چیزهایی که آنجا ذخیره کرده پاک می‌شود. نسخه‌ای که در پشتیبان خود گوشی باشد در حساب اپل یا گوگل شما نگه‌داری و پاک می‌شود، نه به دست ما. رویدادهایی که به تقویم گوشی اضافه شده‌اند مال همان تقویم‌اند و تا خودتان پاکشان نکنید آنجا می‌مانند.
 
 ## امنیت
 
